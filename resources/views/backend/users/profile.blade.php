@@ -1,6 +1,6 @@
 @extends('backend.layouts.master')
 
-@section('title','Admin Profile')
+@section('title','E-YUDI SHOP || Admin Profile')
 
 @section('main-content')
 

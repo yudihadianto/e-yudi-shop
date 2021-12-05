@@ -153,7 +153,7 @@
 // didieu number format na
 
 
-    function number_format(number, decimal, dec_poin, thousands_sep) {
+    function number_format(number, decimals, dec_poin, thousands_sep) {
       // *     example: number_format(1234.56, 2, ',', ' ');
       // *     return: '1 234,56'
       number = (number + '').replace(',', '').replace(' ', '');

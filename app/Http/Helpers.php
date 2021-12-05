@@ -167,7 +167,7 @@ class Helper{
         foreach($month_data as $data){
             $price = $data->cart_info->sum('price');
         }
-        return number_format((float)($price),2,'.','');
+        return number_format((integer)($price),2,'.','');
     }
 
     public static function shipping(){

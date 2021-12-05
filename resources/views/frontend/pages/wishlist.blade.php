@@ -1,5 +1,5 @@
 @extends('frontend.layouts.master')
-@section('title','Wishlist Page')
+@section('title','E-YUDI SHOP || Wishlist Page')
 @section('main-content')
 	<!-- Breadcrumbs -->
 	<div class="breadcrumbs">

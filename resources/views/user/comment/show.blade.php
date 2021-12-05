@@ -1,6 +1,6 @@
 @extends('user.layouts.master')
 
-@section('title','Comment Page')
+@section('title','E-YUDI SHOP || Comment Page')
 
 @section('main-content')
 <div class="card">

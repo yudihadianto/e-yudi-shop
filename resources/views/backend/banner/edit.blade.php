@@ -1,5 +1,5 @@
 @extends('backend.layouts.master')
-@section('title','E-SHOP || Banner Edit')
+@section('title','YUDI E-SHOP || Banner Edit')
 @section('main-content')
 
 <div class="card">
